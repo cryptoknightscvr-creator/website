@@ -5,15 +5,17 @@ export interface BlogPost {
   content: string;
   date: string;
   author: string;
+  link?: string;
 }
 
 export const blogs: BlogPost[] = [
   {
-    id: "modern-web-attacks",
-    title: "Understanding Modern Web Application Attacks",
-    excerpt: "Discussing modern threats like SQL injection, XSS, Authentication flaws, and Security misconfiguration.",
+    id: "CVE-2026-32746",
+    title: "CVE-2026-32746",
+    excerpt: "vulnerability related to telntd in GNU inetutils.",
     content: "Web applications are increasingly targeted by complex attack vectors...",
-    date: "Oct 24, 2024",
-    author: "Research Team",
+    date: "April 02, 2025",
+    author: "Srujan",
+    link: "https://srujan-07.github.io/my-blog/blog/CVE/CVE-2026-32746", // Add your blog link here
   }
 ];
