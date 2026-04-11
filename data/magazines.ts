@@ -16,7 +16,7 @@ export const magazines: MagazineData[] = [
     edition: "2024–2025 Edition",
     description: "Technical events done by the department in the year 2024-2025",
     coverImage: "/images/tech1.jpg",
-    pdfLink: "/pdfs/tech1.pdf"
+    pdfLink: "https://drive.google.com/file/d/1tlyyPy_IgB06YnxTExafWghgPR--bLPU/view?usp=sharing"
   },
   {
     id: "hackshield-25",
@@ -25,7 +25,7 @@ export const magazines: MagazineData[] = [
     edition: "2025–2026 Edition",
     description: "Technical events done by the department in the year 2025-2026",
     coverImage: "/images/tech2.jpg",
-    pdfLink: "/pdfs/tech2.pdf"
+    pdfLink: "https://drive.google.com/file/d/1uxDdukbaMCUbPzj-X9BBsMKXd7bciWKq/view?usp=sharing"
   },
   {
     id: "cyberverse-24",
@@ -34,7 +34,7 @@ export const magazines: MagazineData[] = [
     edition: "2024–2025 Edition",
     description: "Non-Technical events done by the department in the year 2024-2025",
     coverImage: "/images/nontech1.jpg",
-    pdfLink: "/pdfs/nontech1.pdf"
+    pdfLink: "https://drive.google.com/file/d/13Fp1Q1o4rBn72udQGkoYO-9rjQavrAap/view?usp=sharing"
   },
   {
     id: "cyberverse-25",
@@ -43,6 +43,6 @@ export const magazines: MagazineData[] = [
     edition: "2025–2026 Edition",
     description: "Non-Technical events done by the department in the year 2025-2026",
     coverImage: "/images/nontech2.jpg",
-    pdfLink: "/pdfs/NonTech2.pdf"
+    pdfLink: "https://drive.google.com/file/d/1bZoeny9zpEp5xoJo1lHRgCRp9UNOVC4d/view?usp=sharing"
   }
 ];

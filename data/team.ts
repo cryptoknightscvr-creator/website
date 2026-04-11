@@ -34,7 +34,7 @@ export const teamMembers: TeamMember[] = [
   { id: "team-4", name: "Srujan", role: "Technical Team", image: "/images/team/srujan.jpeg", linkedin: "https://www.linkedin.com/in/srujan-samala-76b104215/" },
   { id: "team-5", name: "Rajaram", role: "Technical Team", linkedin: "https://www.linkedin.com/in/rajaram-ramavath/" },
   { id: "team-6", name: "Vivekanand", role: "Technical Team", linkedin: "https://www.linkedin.com/in/vivekananda-reddy-968295290/" },
-  { id: "team-10", name: "Hanish", role: " Organizing committee", linkedin: "https://www.linkedin.com/in/hanishreddy001/" },
+  { id: "team-10", name: "Hanish", role: "Organizing committee", image: "/images/team/hanish.jpeg", linkedin: "https://www.linkedin.com/in/hanishreddy001/" },
   { id: "team-7", name: "Vagdevi", role: "Technical Team", image: "/images/team/vagdevi.jpeg", linkedin: "https://www.linkedin.com/in/vagdevisagi08/" },
   { id: "team-8", name: "Vinathi", role: "Technical Team", image: "/images/team/vinathi.jpeg", linkedin: "https://www.linkedin.com/in/vinathi-bellam-3a5274257/" },
   { id: "team-9", name: "Team Member 9", role: "Team Member" },
