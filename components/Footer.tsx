@@ -28,7 +28,7 @@ export default function Footer() {
           <div>
             <h4 className="font-medium mb-4">Connect</h4>
             <div className="flex space-x-4 text-muted-foreground">
-              <a href="#" className="hover:text-white transition-colors">
+              <a href="https://www.instagram.com/cvr_cryptoknights/" className="hover:text-white transition-colors">
                 <Instagram size={20} />
               </a>
               <a href="#" className="hover:text-white transition-colors">
