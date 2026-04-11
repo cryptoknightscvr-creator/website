@@ -31,9 +31,7 @@ export default function Footer() {
               <a href="https://www.instagram.com/cvr_cryptoknights/" className="hover:text-white transition-colors">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="hover:text-white transition-colors">
-                <Linkedin size={20} />
-              </a>
+
             </div>
           </div>
         </div>
